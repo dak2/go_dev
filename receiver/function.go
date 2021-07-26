@@ -1,3 +1,5 @@
+// summary : 関数はそのままの関数
+
 package main
 
 import (

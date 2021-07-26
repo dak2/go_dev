@@ -1,3 +1,5 @@
+// summary : メソッドはレシーバを持った関数のこと
+
 package main
 
 import (
